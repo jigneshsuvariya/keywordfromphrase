@@ -1,0 +1,31 @@
+{
+  "name": "keywordfromphrase",
+  "version": "1.0.1",
+  "description": "This module will give keyword array from the provided pharse.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "keyword",
+    "phrase",
+    "extract",
+    "keyword"
+  ],
+  "author": "Jignesh Suvariya",
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  },
+  "dependencies": {
+    "stopword": "^0.1.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jigneshsuvariya/keywordfromphrase.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jigneshsuvariya/keywordfromphrase/issues"
+  },
+  "homepage": "https://github.com/jigneshsuvariya/keywordfromphrase/#readme"
+}
